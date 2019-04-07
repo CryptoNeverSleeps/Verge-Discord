@@ -20,8 +20,8 @@
             "file": "log.txt",
             "file_level": 3
         },
-        "owners": ["owners discord id"],
+        "owners": ["CryptoNeverSleeps"],
         "prefix": "!",
-        "description": "Verge Tipbot"
+        "description": "Zodiac Bot"
     }
 ]}
